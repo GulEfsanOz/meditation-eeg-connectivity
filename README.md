@@ -33,7 +33,15 @@ See [dataset documentation](data/README.md) for additional information.
 
 ## Supplementary Figures
 
-Additional figures will be available in the `figures/` directory.
+The following figures accompany the SfN 2026 poster and are available in this repository:
+
+- [Meditation study overview](figures/meditationmantra.png)
+- [Alpha-band connectivity results](figures/alpharesult.png)
+- [Alpha-band topographic maps](figures/alphatopomaps.png)
+- [Gamma-band connectivity results](figures/gammaresults.png)
+- [Gamma-band topographic maps](figures/gammatopomaps.png)
+
+These figures provide visualizations of the EEG functional connectivity analyses presented in the study.
 
 ## Requirements
 
